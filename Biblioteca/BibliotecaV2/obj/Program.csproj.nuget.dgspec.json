@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProjFella\\CAP5\\Biblioteca\\BibliotecaV2\\Program.csproj": {}
+    "C:\\Tests\\Frati\\Treinamento_LivroCsharp\\Biblioteca\\BibliotecaV2\\Program.csproj": {}
   },
   "projects": {
-    "D:\\ProjFella\\CAP5\\Biblioteca\\BibliotecaV2\\Program.csproj": {
+    "C:\\Tests\\Frati\\Treinamento_LivroCsharp\\Biblioteca\\BibliotecaV2\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjFella\\CAP5\\Biblioteca\\BibliotecaV2\\Program.csproj",
+        "projectUniqueName": "C:\\Tests\\Frati\\Treinamento_LivroCsharp\\Biblioteca\\BibliotecaV2\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "D:\\ProjFella\\CAP5\\Biblioteca\\BibliotecaV2\\Program.csproj",
-        "packagesPath": "C:\\Users\\fratt\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjFella\\CAP5\\Biblioteca\\BibliotecaV2\\obj\\",
+        "projectPath": "C:\\Tests\\Frati\\Treinamento_LivroCsharp\\Biblioteca\\BibliotecaV2\\Program.csproj",
+        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Tests\\Frati\\Treinamento_LivroCsharp\\Biblioteca\\BibliotecaV2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\fratt\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -47,12 +54,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.0, 6.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.1, 6.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.0, 6.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.0, 6.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.1.22110.4\\RuntimeIdentifierGraph.json"
         }
       }
     }

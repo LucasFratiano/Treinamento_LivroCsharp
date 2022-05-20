@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bEFkska6oaiMV4Ry8rM4VX+cuQXgpSRaHc8ZwKaTjU52fUHTe5i4IGYB2V8SdX1xnWUs7mQ7szQGP6/uSC0xLg==",
+  "dgSpecHash": "yhtLbjZ2TJfFU3zdLlGhXupFh7EAQo2pl3De+J1RMB5olghQ8bEFX90AqcJbhSWPKPVM3ZjHZFWypvhJ7PeAjA==",
   "success": true,
-  "projectFilePath": "D:\\ProjFella\\CAP5\\Classes1OlaMundo\\Program.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Tests\\Frati\\Treinamento_LivroCsharp\\Classes1OlaMundo\\Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.0\\microsoft.netcore.app.ref.6.0.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.0\\microsoft.windowsdesktop.app.ref.6.0.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.0\\microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.1\\microsoft.netcore.app.host.win-x64.6.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
