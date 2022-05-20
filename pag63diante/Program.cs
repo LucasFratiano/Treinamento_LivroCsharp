@@ -1,12 +1,8 @@
 ﻿using static System.Console;
-using System;
-using System.Linq;
-using System.Globalization;
-using Pedido;
+namespace livrochsarp
+{
 
-namespace livrochsarp{
-
-        public class Pedido{
+    public class Pedido{
 
             public int PedidoID { get;set;}
             public DateTime dtPedido {get; set;}
