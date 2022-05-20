@@ -456,3 +456,6 @@ $RECYCLE.BIN/
 *.cache
 *.*.cache
 **/*.cache
+
+**/bin
+**/obj
