@@ -7,8 +7,8 @@ namespace livrochsarp
             public int PedidoID { get;set;}
             public DateTime dtPedido {get; set;}
             public DateTime dtVencimento() => dtPedido.AddDays(30);
-            public DateTime dtPagmento = dtPedido.AddMonths(2);
-            public TimeSpan DiasAtras = dtPagmento.Subtract(dtVencimento());
+            public DateTime dtPagmento {get; set;}
+            public TimeSpan DiasAtraso() => dtPagmento.Subtract(dtVencimento());
             public decimal Valor {get; set;}
             public decimal Multa => Valor*0.10M;
 
@@ -119,7 +119,7 @@ namespace livrochsarp
                 };
 
                 WriteLine($"Pedido: {pedido.PedidoID} - " + $"{pedido.dtPedido:dd/MMM/yyyy} - " 
-                + $"{pedido.dtVencimento(): dd/NNM/yyyy} - " + $"dias atraso: {pedido.DiasAtras(): dd/MMM/yyyy} - "
+                + $"{pedido.dtVencimento(): dd/NNM/yyyy} - " + $"dias atraso: {pedido.DiasAtraso(): dd/MMM/yyyy} - "
                 + $"valor: {pedido.Valor:n2} - " + $"multa: {pedido.Multa:n2}");
 
 
