@@ -1,0 +1,15 @@
+D:\ProjFella\pag63diante\bin\Debug\net6.0\exercicios.exe
+D:\ProjFella\pag63diante\bin\Debug\net6.0\exercicios.deps.json
+D:\ProjFella\pag63diante\bin\Debug\net6.0\exercicios.runtimeconfig.json
+D:\ProjFella\pag63diante\bin\Debug\net6.0\exercicios.dll
+D:\ProjFella\pag63diante\bin\Debug\net6.0\exercicios.pdb
+D:\ProjFella\pag63diante\obj\Debug\net6.0\exercicios.csproj.AssemblyReference.cache
+D:\ProjFella\pag63diante\obj\Debug\net6.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjFella\pag63diante\obj\Debug\net6.0\exercicios.AssemblyInfoInputs.cache
+D:\ProjFella\pag63diante\obj\Debug\net6.0\exercicios.AssemblyInfo.cs
+D:\ProjFella\pag63diante\obj\Debug\net6.0\exercicios.csproj.CoreCompileInputs.cache
+D:\ProjFella\pag63diante\obj\Debug\net6.0\exercicios.dll
+D:\ProjFella\pag63diante\obj\Debug\net6.0\refint\exercicios.dll
+D:\ProjFella\pag63diante\obj\Debug\net6.0\exercicios.pdb
+D:\ProjFella\pag63diante\obj\Debug\net6.0\exercicios.genruntimeconfig.cache
+D:\ProjFella\pag63diante\obj\Debug\net6.0\ref\exercicios.dll

@@ -1,0 +1,15 @@
+D:\ProjFella\pag80\obj\Debug\net6.0\expag80.csproj.AssemblyReference.cache
+D:\ProjFella\pag80\obj\Debug\net6.0\expag80.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjFella\pag80\obj\Debug\net6.0\expag80.AssemblyInfoInputs.cache
+D:\ProjFella\pag80\obj\Debug\net6.0\expag80.AssemblyInfo.cs
+D:\ProjFella\pag80\obj\Debug\net6.0\expag80.csproj.CoreCompileInputs.cache
+D:\ProjFella\pag80\bin\Debug\net6.0\expag80.exe
+D:\ProjFella\pag80\bin\Debug\net6.0\expag80.deps.json
+D:\ProjFella\pag80\bin\Debug\net6.0\expag80.runtimeconfig.json
+D:\ProjFella\pag80\bin\Debug\net6.0\expag80.dll
+D:\ProjFella\pag80\bin\Debug\net6.0\expag80.pdb
+D:\ProjFella\pag80\obj\Debug\net6.0\expag80.dll
+D:\ProjFella\pag80\obj\Debug\net6.0\refint\expag80.dll
+D:\ProjFella\pag80\obj\Debug\net6.0\expag80.pdb
+D:\ProjFella\pag80\obj\Debug\net6.0\expag80.genruntimeconfig.cache
+D:\ProjFella\pag80\obj\Debug\net6.0\ref\expag80.dll

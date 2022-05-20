@@ -1,0 +1,15 @@
+D:\ProjFella\Arrays\obj\Debug\net6.0\arrays.csproj.AssemblyReference.cache
+D:\ProjFella\Arrays\obj\Debug\net6.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjFella\Arrays\obj\Debug\net6.0\arrays.AssemblyInfoInputs.cache
+D:\ProjFella\Arrays\obj\Debug\net6.0\arrays.AssemblyInfo.cs
+D:\ProjFella\Arrays\obj\Debug\net6.0\arrays.csproj.CoreCompileInputs.cache
+D:\ProjFella\Arrays\bin\Debug\net6.0\arrays.exe
+D:\ProjFella\Arrays\bin\Debug\net6.0\arrays.deps.json
+D:\ProjFella\Arrays\bin\Debug\net6.0\arrays.runtimeconfig.json
+D:\ProjFella\Arrays\bin\Debug\net6.0\arrays.dll
+D:\ProjFella\Arrays\bin\Debug\net6.0\arrays.pdb
+D:\ProjFella\Arrays\obj\Debug\net6.0\arrays.dll
+D:\ProjFella\Arrays\obj\Debug\net6.0\refint\arrays.dll
+D:\ProjFella\Arrays\obj\Debug\net6.0\arrays.pdb
+D:\ProjFella\Arrays\obj\Debug\net6.0\arrays.genruntimeconfig.cache
+D:\ProjFella\Arrays\obj\Debug\net6.0\ref\arrays.dll

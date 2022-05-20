@@ -1,0 +1,15 @@
+D:\ProjFella\src\obj\Debug\net6.0\pag74.csproj.AssemblyReference.cache
+D:\ProjFella\src\obj\Debug\net6.0\pag74.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjFella\src\obj\Debug\net6.0\pag74.AssemblyInfoInputs.cache
+D:\ProjFella\src\obj\Debug\net6.0\pag74.AssemblyInfo.cs
+D:\ProjFella\src\obj\Debug\net6.0\pag74.csproj.CoreCompileInputs.cache
+D:\ProjFella\src\bin\Debug\net6.0\pag74.exe
+D:\ProjFella\src\bin\Debug\net6.0\pag74.deps.json
+D:\ProjFella\src\bin\Debug\net6.0\pag74.runtimeconfig.json
+D:\ProjFella\src\bin\Debug\net6.0\pag74.dll
+D:\ProjFella\src\bin\Debug\net6.0\pag74.pdb
+D:\ProjFella\src\obj\Debug\net6.0\pag74.dll
+D:\ProjFella\src\obj\Debug\net6.0\refint\pag74.dll
+D:\ProjFella\src\obj\Debug\net6.0\pag74.pdb
+D:\ProjFella\src\obj\Debug\net6.0\pag74.genruntimeconfig.cache
+D:\ProjFella\src\obj\Debug\net6.0\ref\pag74.dll

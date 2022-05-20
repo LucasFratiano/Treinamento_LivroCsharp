@@ -1,0 +1,15 @@
+D:\ProjFella\ConvertTo\bin\Debug\net6.0\convert.exe
+D:\ProjFella\ConvertTo\bin\Debug\net6.0\convert.deps.json
+D:\ProjFella\ConvertTo\bin\Debug\net6.0\convert.runtimeconfig.json
+D:\ProjFella\ConvertTo\bin\Debug\net6.0\convert.dll
+D:\ProjFella\ConvertTo\bin\Debug\net6.0\convert.pdb
+D:\ProjFella\ConvertTo\obj\Debug\net6.0\convert.csproj.AssemblyReference.cache
+D:\ProjFella\ConvertTo\obj\Debug\net6.0\convert.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjFella\ConvertTo\obj\Debug\net6.0\convert.AssemblyInfoInputs.cache
+D:\ProjFella\ConvertTo\obj\Debug\net6.0\convert.AssemblyInfo.cs
+D:\ProjFella\ConvertTo\obj\Debug\net6.0\convert.csproj.CoreCompileInputs.cache
+D:\ProjFella\ConvertTo\obj\Debug\net6.0\convert.dll
+D:\ProjFella\ConvertTo\obj\Debug\net6.0\refint\convert.dll
+D:\ProjFella\ConvertTo\obj\Debug\net6.0\convert.pdb
+D:\ProjFella\ConvertTo\obj\Debug\net6.0\convert.genruntimeconfig.cache
+D:\ProjFella\ConvertTo\obj\Debug\net6.0\ref\convert.dll
